@@ -1,0 +1,9 @@
+{
+  "name": "safehost-hello",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smallest possible app for testing safehost.dev builds.",
+  "main": "server.js",
+  "engines": { "node": ">=20" },
+  "scripts": { "start": "node server.js" }
+}
